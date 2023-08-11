@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: IPYNBrenderer
+Version: 0.0.0
+Summary: A small python package
+Home-page: https://github.com/dilipp07/IPYNBrenderer
+Author: dilipp07
+Author-email: dilipkupanda23@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/dilipp07/IPYNBrenderer/issues
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Provides-Extra: testing
+License-File: LICENSE
+
+# IPYNB render python package
